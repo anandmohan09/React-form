@@ -11,6 +11,7 @@ font-size:2.5em;
 
 
 
+
 const Signup1 = () => {
   const[name,setName]=useState('');
   const handle=(e)=>{

@@ -12,3 +12,10 @@ body{
   align-items: center;
   background-color: gainsboro;
 }
+:where(.css-dev-only-do-not-override-12jzuas).ant-space {
+  display: block !important;
+}
+
+.ant-btn{
+  width:100%;
+}
